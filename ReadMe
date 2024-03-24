@@ -1,1 +1,4 @@
-Banking System
+# Banking System
+
+- This Banking System project is developed in c++ where users can create bank accounts,widthraw money, Balance check, transfer money directly through their account etc.
+- It is based on object oriented programming.It can Read and write data from files on basis of bank operation.
